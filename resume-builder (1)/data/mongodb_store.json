@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "Alex Morgan",
+      "email": "alex@example.com",
+      "password": "$2b$10$YHiWeuVwQpWpHviVNLhQeOUoq8kXy9ifvqons.TdbhEowrMnqaBbC",
+      "_id": "usr_fr6t8s1xqmueb7h8k",
+      "createdAt": "2026-09-23T16:20:31.364Z",
+      "updatedAt": "2026-09-23T16:20:31.364Z"
+    },
+    {
+      "name": "Alex Morgan",
+      "email": "demo@resumebuilder.io",
+      "password": "$2b$10$XrFJj4V83kqqXsax1gNJTeqhXoGICETVhWRoMak70vey3ONKsUmSi",
+      "_id": "usr_sf6rhhcu4mueba2lb",
+      "createdAt": "2026-09-23T16:22:32.351Z",
+      "updatedAt": "2026-09-23T16:22:32.351Z"
+    },
+    {
+      "name": "Google Test User",
+      "email": "test_google_user@gmail.com",
+      "googleId": "g_123456",
+      "authProvider": "google",
+      "profilePhoto": "https://example.com/photo.jpg",
+      "_id": "usr_smacs5t7vmuec7g3b",
+      "createdAt": "2026-09-23T16:48:29.495Z",
+      "updatedAt": "2026-09-23T16:48:32.217Z"
+    }
+  ],
+  "resumes": [
+    {
+      "userId": "usr_fr6t8s1xqmueb7h8k",
+      "resumeName": "Senior Full-Stack Resume",
+      "personalInfo": {
+        "fullName": "Alex Morgan",
+        "jobTitle": "Senior Full-Stack Engineer",
+        "email": "alex@example.com",
+        "phone": "+1 (555) 019-2834",
+        "location": "San Francisco, CA",
+        "linkedIn": "",
+        "github": "",
+        "portfolio": "",
+        "profilePhoto": ""
+      },
+      "summary": "Experienced engineer",
+      "education": [],
+      "skills": [
+        {
+          "id": "1",
+          "name": "React",
+          "level": "Advanced"
+        },
+        {
+          "id": "2",
+          "name": "Node.js",
+          "level": "Advanced"
+        }
+      ],
+      "projects": [],
+      "experience": [],
+      "isFresher": false,
+      "certifications": [],
+      "achievements": [],
+      "languages": [],
+      "hobbies": [],
+      "selectedTemplate": "modern",
+      "_id": "res_57qoxf98hmueb7kbz",
+      "createdAt": "2026-09-23T16:20:35.374Z",
+      "updatedAt": "2026-09-23T16:20:35.374Z"
+    }
+  ]
+}

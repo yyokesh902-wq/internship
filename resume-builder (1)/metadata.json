@@ -1,0 +1,6 @@
+{
+  "name": "Resume Builder",
+  "description": "Create, customize, manage, and download professional A4 resumes with modern designer templates and live preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
